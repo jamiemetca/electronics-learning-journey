@@ -1,0 +1,15 @@
+# LEDs
+
+## Overview
+The LED is a diode, meaning current can only flow one way. From the positive to the negative.
+The positive (Anode) terminal is the longer pin.
+The negative (Cathode) terminal is the shorter pin.
+
+An LED is a non-linear device meaning it requires a minimal voltage before it starts conducting.
+
+## Finding the forward voltage
+Put the multimeter on diode testing mode (―⯈⊢ Option 3 and press select twice)
+The multimeter will only give a reading if the LED it connected the right way
+Red probe (negative) on the anode (+ or longer pin)
+
+
