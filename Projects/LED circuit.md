@@ -33,6 +33,7 @@ I read that resistors place in series sum. So I used a 330 and 100 ohms resistor
 ## Testing
 The LED lit up to confirm the circuit was working correctly.
 
+
 ### Voltage
 
 The voltage of the battery was 9V as expected.
